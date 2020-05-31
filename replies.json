@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "replyUrl": "../coca-cola-splashtag/cocacola.html",
+    "img": "../shared-assets/users/cocacola.jpg",
+    "username": "Coca-Cola",
+    "handle": "@CocaCola",
+    "time": "10", 
+    "content": "Hey! <span class='splashtag'>@ashie_caramelo,</span><br>Thanks for sharing your shoutout.", 
+    "specialHashtag": "ShareHope"
+  }, 
+  {
+    "id": 2,
+    "replyUrl": "../pride-splashtag/pride.html",
+    "img": "../shared-assets/users/neil.jpg",
+    "username": "Neil Patrick Harris",
+    "handle": "@ActuallyNPH",
+    "time": "7", 
+    "content": "6 years married to the best man. Love you, David!", 
+    "specialHashtag": "LoveWins"
+  },
+  {
+    "id": 3,
+    "replyUrl": "../frozen-splashtag/tweet-details-frozen.html",
+    "img": "../shared-assets/users/disney.jpg",
+    "username": "Disney",
+    "handle": "@Disney",
+    "time": "5", 
+    "content": "Frozen: The Broadway Musical!! ❄️☃️", 
+    "specialHashtag": "LetItGo"
+  }, 
+  {
+    "id": 4,
+    "replyUrl": "",
+    "img": "../shared-assets/users/lejorne.jpg",
+    "username": "&#129335;&#127998;",
+    "handle": "@StoicLeys",
+    "time": "12", 
+    "content": "Team Pelicans is on fire!!! &#128293; &#128293; &#128293;", 
+    "specialHashtag": "earlybird20"
+  },
+  {
+    "id": 5,
+    "replyUrl": "",
+    "img": "../shared-assets/users/herman.jpg",
+    "username": "Herman Gonzalez",
+    "handle": "@hermalez",
+    "time": "15", 
+    "content": "Deep inside, every falcon wants to be a pelican.", 
+    "specialHashtag": "earlybird20"
+  }, 
+  {
+    "id": 6,
+    "replyUrl": "../pride-splashtag/pride.html",
+    "img": "../shared-assets/users/pablo.jpg",
+    "username": "Pablo Valencia",
+    "handle": "@ValcPablo",
+    "time": "13", 
+    "content": "LGBT", 
+    "specialHashtag": "LoveWins"
+  }, 
+  {
+    "id": 7,
+    "replyUrl": "../pride-splashtag/pride.html",
+    "img": "../shared-assets/users/godbless.jpg",
+    "username": "Godbless Chille",
+    "handle": "@iamGB_22",
+    "time": "22", 
+    "content": "LGBT Pride Month is coming!!! &#127987; &#65039; &#8205; &#127752;", 
+    "specialHashtag": "LoveWins"
+  }, 
+  {
+    "id": 8,
+    "replyUrl": "../frozen-splashtag/tweet-details-frozen.html",
+    "img": "../shared-assets/users/ashie.jpg",
+    "username": "Ashie",
+    "handle": "@ashie_caramelo",
+    "time": "27", 
+    "content": "Guys, you have to see the Frozen splashtag!", 
+    "specialHashtag": "LetItGo"
+  },
+  {
+    "id": 9,
+    "replyUrl": "../pride-splashtag/pride.html",
+    "img": "../shared-assets/users/jack.jpg",
+    "username": "jack",
+    "handle": "@jack",
+    "time": "35", 
+    "content": "Let's celebrate LGBT Pride Month with a splashtag!", 
+    "specialHashtag": "LoveWins"
+  },
+  {
+    "id": 10,
+    "replyUrl": "../coca-cola-splashtag/cocacola.html",
+    "img": "../shared-assets/users/anchita.jpg",
+    "username": "Anchita Bora",
+    "handle": "@anchita_bora",
+    "time": "36", 
+    "content": "I love this Coca-Cola splashtag", 
+    "specialHashtag": "ShareHope"
+  }
+]
