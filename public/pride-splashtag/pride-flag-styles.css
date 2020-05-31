@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+}
+.pride-flag__layer{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    z-index: 1;
+    opacity: 0.25;
+    display: flex;
+    flex-direction: column;
+}
+.pride-flag__color--container{
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    height: 16.67%;
+}
+.pride-flag__color--red{
+    height: 16.67%;
+    width: 0%;
+    background-color: red;
+}
+.pride-flag__color--orange{
+    height: 100%;
+    width: 0%;
+    background-color: orange;
+}
+.pride-flag__color--yellow{
+    height: 16.67%;
+    width: 0%;
+    background-color: yellow;
+}
+.pride-flag__color--green{
+    height: 100%;
+    width: 0%;
+    background-color: green;
+}
+.pride-flag__color--blue{
+    height: 16.67%;
+    width: 0%;
+    background-color: blue;
+}
+.pride-flag__color--purple{
+    height: 100%;
+    width: 0%;
+    background-color: purple;
+}
+.splashtag.splashtag-LoveWins{
+    background: red;
+    background: -webkit-linear-gradient(left, orange , yellow, green, cyan, blue, violet);
+    background: -o-linear-gradient(right, orange, yellow, green, cyan, blue, violet);
+    background: -moz-linear-gradient(right, orange, yellow, green, cyan, blue, violet);
+    background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.splashtag{
+    color: #0060B6;
+}
