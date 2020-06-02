@@ -1,11 +1,11 @@
 # earlybird20-splashtags
 This is the project my team and I built during Twitter's #EarlyBird20 
 
-Requirements: 
+## Requirements: 
   - Node 
   - NPM
   - json-server
   
- Run the project: 
+  ## Run the project: 
   1. json-server db.js
   2. Open timeline.html
